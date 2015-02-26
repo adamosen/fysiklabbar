@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fysikprojekt2", "Fysikprojekt2\Fysikprojekt2\Fysikprojekt2.csproj", "{DAEB3FA2-3D5D-46B3-B369-5346D086B586}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Fysikprojekt2Content", "Fysikprojekt2\Fysikprojekt2Content\Fysikprojekt2Content.contentproj", "{2520610B-0C18-4D6C-BC16-56004F921DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEB3FA2-3D5D-46B3-B369-5346D086B586}.Debug|x86.ActiveCfg = Debug|x86
+		{DAEB3FA2-3D5D-46B3-B369-5346D086B586}.Debug|x86.Build.0 = Debug|x86
+		{DAEB3FA2-3D5D-46B3-B369-5346D086B586}.Release|x86.ActiveCfg = Release|x86
+		{DAEB3FA2-3D5D-46B3-B369-5346D086B586}.Release|x86.Build.0 = Release|x86
+		{2520610B-0C18-4D6C-BC16-56004F921DF8}.Debug|x86.ActiveCfg = Debug|x86
+		{2520610B-0C18-4D6C-BC16-56004F921DF8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

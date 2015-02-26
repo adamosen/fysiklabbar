@@ -1,0 +1,2 @@
+Content\cartex.xnb
+Content\font1.xnb

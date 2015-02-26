@@ -1,0 +1,40 @@
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.exe
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.pdb
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csprojResolveAssemblyReference.cache
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.exe
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.pdb
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.Form1.resources
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csproj.GenerateResource.Cache
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\SpriteFont1.xnb
+c:\users\timmy\documents\visual studio 2010\Projects\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\pokeboll.xnb
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\pokeboll.xnb
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.exe
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.pdb
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.Form1.resources
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csproj.GenerateResource.Cache
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.exe
+C:\Users\Tim\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.pdb
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\pokeboll.xnb
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.exe
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.pdb
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csprojResolveAssemblyReference.cache
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.Form1.resources
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csproj.GenerateResource.Cache
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.exe
+C:\Users\Timmy\Dropbox\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.pdb
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Content\pokeboll.xnb
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.exe
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\bin\x86\Debug\Fysikprojekt1.pdb
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csprojResolveAssemblyReference.cache
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.Form1.resources
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.csproj.GenerateResource.Cache
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.exe
+C:\Users\adamo_000\Desktop\fysiklabbar\Fysikprojekt1\Fysikprojekt1\Fysikprojekt1\obj\x86\Debug\Fysikprojekt1.pdb

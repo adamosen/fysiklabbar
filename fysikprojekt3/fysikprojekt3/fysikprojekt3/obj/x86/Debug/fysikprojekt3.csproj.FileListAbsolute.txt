@@ -1,0 +1,20 @@
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\fysikprojekt3.exe
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\fysikprojekt3.pdb
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.csprojResolveAssemblyReference.cache
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.exe
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.pdb
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.Form1.resources
+c:\users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.csproj.GenerateResource.Cache
+C:\Users\adamo_000\Documents\Visual Studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\Content\cartex.xnb
+C:\Users\adamo_000\documents\visual studio 2013\Projects\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\Content\font1.xnb
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\Content\cartex.xnb
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\Content\font1.xnb
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\fysikprojekt3.exe
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\bin\x86\Debug\fysikprojekt3.pdb
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.csprojResolveAssemblyReference.cache
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.Form1.resources
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.csproj.GenerateResource.Cache
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.exe
+C:\Users\Timmy\Dropbox\fysikprojekt3\fysikprojekt3\fysikprojekt3\obj\x86\Debug\fysikprojekt3.pdb
